@@ -2,8 +2,8 @@
 
 > Discord sunucunuzu **web paneli üzerinden** tam yetkiyle yönetmenizi sağlayan gelişmiş bir **Discord botu**.
 
-![Stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
-![License](https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/kaiwashere0/KaiWebManagement?style=for-the-badge)
+![License](https://img.shields.io/github/license/kaiwashere0/KaiWebManagement?style=for-the-badge)
 ![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?style=for-the-badge)
 
 ---

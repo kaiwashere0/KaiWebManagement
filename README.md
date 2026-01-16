@@ -47,10 +47,3 @@ Sunucuda yapılan **tüm işlemler kayıt altına alınır**, böylece tam kontr
 
 ---
 
-## ⚙️ Kurulum
-
-```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
-npm install
-npm start
